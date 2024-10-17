@@ -1,4 +1,4 @@
-module github.com/unkaktus/bobik
+module github.com/unkaktus/prompter
 
 go 1.21.5
 

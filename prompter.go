@@ -49,7 +49,7 @@ func findAccount() (string, error) {
 }
 
 func run() error {
-	service := "bobik"
+	service := "prompter"
 	account, err := findAccount()
 	if err != nil {
 		return err
